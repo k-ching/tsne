@@ -1,0 +1,8 @@
+* tsne.pkg
+package {
+    name "tsne"
+    version "1.0.0"
+    ado "tsne.ado"
+    help "tsne.sthlp"
+    toc "stata.toc"
+}
