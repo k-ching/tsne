@@ -30,7 +30,7 @@ net install tsne, from("https://k-ching.github.io/tsne/")
 
 Alternatively, clone the repository:
 ```bash
-git clone https://github.com/yourusername/tsne.git
+git clone https://github.com/k-ching/tsne.git
 ```
 and copy the module files to your Stata adopath.
 
