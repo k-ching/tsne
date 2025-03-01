@@ -63,7 +63,7 @@ in your Stata command window.
 
 If you find this module useful in your research, please consider citing it as follows:
 
-> [Your Name]. (2025). *tsne: t‑Distributed Stochastic Neighbor Embedding in Stata* [Stata module]. Version 1.0.0. Available at: [URL or DOI].
+> Kenny Ching. (2025). *tsne: t‑Distributed Stochastic Neighbor Embedding in Stata* [Stata module]. Version 1.0.0. Available at: [URL or DOI].
 
 ## Contributing
 
@@ -75,4 +75,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions, suggestions, or bug reports, please contact [Your Name] at [your.email@example.com] or visit the [GitHub repository](https://github.com/yourusername/tsne).
+For questions, suggestions, or bug reports, please contact Kenny Ching at kenny.ching@auckland.ac.nz or visit the [GitHub repository](https://github.com/k-ching/tsne).
