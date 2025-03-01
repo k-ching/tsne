@@ -25,7 +25,7 @@ You can install **tsne** using Stata's `net install` command if the module is ho
 
 For example, if hosted on GitHub pages:
 ```stata
-net install tsne, from("https://yourdomain.com/path/to/tsne")
+net install tsne, from("https://k-ching.github.io/tsne/")
 ```
 
 Alternatively, clone the repository:
