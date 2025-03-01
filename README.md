@@ -1,6 +1,6 @@
 # tsne: t‑Distributed Stochastic Neighbor Embedding for Stata
 
-**Version 1.0.0** • Developed by [Your Name]
+**Version 1.0.0** • Developed by Kenny Ching
 
 ## Overview
 
